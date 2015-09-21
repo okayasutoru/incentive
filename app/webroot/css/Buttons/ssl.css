@@ -1,0 +1,124 @@
+.circlePositioner {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  /*background-color: #0881AA;*/
+}
+
+.mainCircle {
+  background-color: #0881AA;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: inline-block;
+  overflow: hidden;
+  cursor: pointer;
+  opacity: .99;
+  transition: all 1s ease-in-out;
+}
+
+.spinningContainer {
+  background-color: #efefef;
+  height: 50px;
+  width: 100%;
+  margin-top: 75px;
+  position: relative;
+  animation: mymoveR 1s ease-in-out;
+  transform: scaleY(2);
+  transition: all 2s cubic-bezier(.18, 1.51, .85, 1.4);
+}
+
+.mainCircle:hover .overlay {
+  background-color: #7C9FAB;
+  transition: all .3s ease-in-out;
+}
+
+.mainCircle:hover .overlay p {
+  color: white;
+  transition: all .3s ease-in-out;
+}
+
+.mainCircle:hover .spinningContainer {
+  -webkit-filter: blur(5px);
+  animation: mymove 1s cubic-bezier(1, .22, 1, .92), myscale 2s 1s ease-in-out;
+}
+
+@keyframes mymove {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(1080deg);
+  }
+}
+
+@keyframes mymoveR {
+  from {
+    transform: rotate(1080deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes myscale {
+  0% {
+    transform: scaleY(2);
+  }
+  25% {
+    transform: scaleY(2.5);
+  }
+  50% {
+    transform: scaleY(3);
+  }
+  75% {
+    transform: scaleY(3.5);
+  }
+  100% {
+    transform: scaleY(4);
+  }
+}
+
+.mainCircle:hover {
+  background-color: white;
+  transition: all 1s ease-in-out;
+  transition-delay: .8s;
+}
+
+.leftContainer {
+  background-color: rgba(255, 255, 255, 0.79);
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.rightContainer {
+  background-color: rgba(255, 255, 255, 0.79);
+  height: 50px;
+  width: 50px;
+  float: right;
+}
+
+.overlay {
+  background-color: #46626B;
+  height: 190px;
+  width: 190px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -120px;
+  border-radius: 50%;
+  transition: all .3s ease-in-out;
+}
+
+.overlay p {
+  position: relative;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 39%;
+  display: inline-block;
+  font-family: 'Sigmar One', cursive;
+  font-size: 16pt;
+  transition: all .3s ease-in-out;
+}

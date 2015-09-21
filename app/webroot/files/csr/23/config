@@ -1,0 +1,13 @@
+
+Host yasukawa
+User kangyoosam
+Port 22
+Hostname 160.16.85.242
+IdentityFile ~/.ssh/ssh
+
+
+Host moremost
+    HostName 153.121.33.193
+    User moredev
+    port 10022
+    IdentityFile ~/.ssh/id_rsa
