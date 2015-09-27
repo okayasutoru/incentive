@@ -25,7 +25,8 @@ body {
     padding: 15px 15px;
     min-height: 600px;
     background:#F3F3F3;
-   
+    margin-top: -50px;   
+
 }
 #page-inner {
     width:100%;
@@ -57,7 +58,7 @@ border-radius: 0px;
 p {
     font-size:16px;
     line-height:25px;
-    padding-top:20px;
+    padding-top:0px;
 }
 /*==============================================
    DASHBOARD STYLES    
@@ -321,7 +322,6 @@ border:0px solid black;
      
 }
 .navbar-header {
-    background: #333;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 background-color: #B40101;
@@ -357,7 +357,7 @@ line-height: 1.428571429;
  
  @media(min-width:768px) {
      #page-wrapper{
-               margin: 0 0 0 260px;
+               margin: 0 0 0 0px;
         padding: 15px 30px;
         min-height: 1200px;
 		
