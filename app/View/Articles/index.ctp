@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -13,16 +12,12 @@
     <title>Incentive</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
 	<?php echo $this->Html->css('bootstrap.min'); ?>
     <!-- Custom CSS -->
-    <link href="css/sb-admin.css" rel="stylesheet">
 	<?php echo $this->Html->css('sb-admin'); ?>
     <!-- Morris Charts CSS -->
-    <link href="css/plugins/morris.css" rel="stylesheet">
 	<?php echo $this->Html->css('morris'); ?>
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	<?php echo $this->Html->css('font-awesome.min'); ?>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,7 +27,6 @@
     <![endif]-->
     <!-- ビューポートの設定 -->
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-
 
 </head>
 
@@ -50,7 +44,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Incentive</a>
+                <a class="navbar-brand" href="/incentive/incentives/">Incentive</a>
             </div>
 
 
@@ -67,36 +61,34 @@
                               <a href="/incentive/articles/">home</a>
                             </li>
                             <li>
-                                <a href="#">人物紹介</a>
+                                 <a data-mce-href="http://www.incentive123.com/articles/人物紹介/" href="http://www.incentive123.com/articles/人物紹介/">人物紹介</a>
                             </li>
                             <li>
-                                <a href="#">旅</a>
+                                <a data-mce-href="http://www.incentive123.com/articles/旅/" href="http://www.incentive123.com/articles/旅/">旅</a>
                             </li>
                             <li>
-                                <a href="#">留学</a>
+                                    <a data-mce-href="http://www.incentive123.com/articles/留学/" href="http://www.incentive123.com/articles/留学/">留学</a>
                             </li>
-                            <li>
-                                <a href="#">スタッフの与太話</a>
+                            <li
+>
+                                 <a data-mce-href="http://www.incentive123.com/articles/スタッフの与太話/" href="http://www.incentive123.com/articles/スタッフの与太話/">スタッフの与太話</a>
                             </li>
                         </ul>
                     </li>
 
                     <li>
-                        <a href="events.html"><i class="fa fa-fw fa-table"></i> Events</a>
+                        <a href="/incentive/events/"><i class="fa fa-fw fa-table"></i> Events</a>
                     </li>
                     <li>
-                        <a href="contacts.html"><i class="fa fa-fw fa-edit"></i> Contacts</a>
+                        <a href="http://www.incentive123.com/contact/"><i class="fa fa-fw fa-edit"></i> Contacts</a>
                     </li>
                     <li>
-                        <a href="about-incentive.html"><i class="fa fa-fw fa-desktop"></i> about incentive</a>
+                        <a href="/incentive/aboutincentives/"><i class="fa fa-fw fa-desktop"></i> about incentive</a>
                     </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </nav>
-
-
-
 
     <div id="page-wrapper">
       <div class="page">
@@ -141,14 +133,14 @@
 				<a href="http://www.incentive123.com/articles/スタッフの与太話/" title="与太話" data-mce-href="http://www.incentive123.com/articles/スタッフの与太話/">与太話ページへ</a>
 				</div>
 			</div>
-	  	   </div>
-	<div class="article-footer">
+	  	   </div><br>
 		<div class="hr"></div>
+		<br>
+	<div class="article-footer">
 		<div class="panel-body">
 		<p>Incentiveでは記事、お題をみなさんより募集しています。おもしろい人や団体を知っている方、多くの人に共有したいことがある方は<a data-mce-href="http://www.incentive123.com/contact/" href="http://www.incentive123.com/contact/" title="Contact">こちら</a>よりお気軽にメッセージお願いします！</p>
-	</div>
-
-
+		</div>
+		</div>
       <div class="footer">
         <p>&copy; Incentive, Inc.</p>
       </div>

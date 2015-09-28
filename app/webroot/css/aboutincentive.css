@@ -1,0 +1,59 @@
+.circle {
+	width: 180px;
+	height: 180px;	
+	-webkit-border-radius: 90px;
+	-moz-border-radius: 90px;
+	-border-radius: 90px;
+	background: #333333;
+}
+
+
+
+.name1 {
+	width: 250px;
+	height: 200px;
+	margin-left: 20px;
+	float: left;
+	background-color: #;
+	position: center;
+	margin-top: 20px;
+	webkit-border-radius: 125px;
+	moz-border-radius: 125px;
+	border-radius: 125px;
+}
+
+.name2 {
+	width: 250px;
+	height: auto;
+	background-color: #;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.name3 {
+	width: 250px;
+	height: auto;
+	background-color: #;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.picture-name {
+	margin-top: 5px;
+	position: center;
+}
+ 
+@media screen and (min-width: 0px) and (max-device-width: 640px) {
+  .page {
+    margin-top: -50px;
+    margin-left: 0px;
+
+  }
+  .panel-body{
+    //margin-right: 0px;
+  }
+}
+
+
