@@ -23534,3 +23534,348 @@ Stack Trace:
 #1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
 #2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2015-09-29 21:14:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 21:14:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 21:14:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 23:05:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 23:05:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 23:05:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 23:05:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-09-29 23:05:31 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /incentive/app/webroot/img/.jpg
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-09-29 23:05:32 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /incentive/app/webroot/img/.jpg
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-09-29 23:05:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/jquery.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/morris.min.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/raphael.min.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/morris-data.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:45 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:05:46 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 12:07:15 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 14]
+2015-10-06 12:07:15 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /incentive/contacts/contact
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 14, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 14, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 12:07:34 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 13]
+2015-10-06 12:07:34 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /incentive/contacts/contact
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 13, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 13, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 12:07:55 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 10]
+2015-10-06 12:07:55 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /incentive/contacts/contact
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 12:08:51 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 10]
+2015-10-06 12:08:51 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /incentive/contacts/contact
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 12:09:49 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 10]
+2015-10-06 12:09:49 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /incentive/contacts/con
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 12:09:50 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/cakephp/incentive/app/Controller/ContactsController.php, line 10]
+2015-10-06 12:09:50 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /incentive/contacts/con
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/cakeph...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#2 /var/www/cakephp/incentive/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/cakeph...', 10, Array)
+#3 /var/www/cakephp/incentive/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-10-06 13:06:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:07:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:07:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:19:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:21:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:21:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:21:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 13:32:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/bootstrap.css.map
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/jquery.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/raphael.min.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/morris.min.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/js/plugins/morris/morris-data.js
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-06 16:25:40 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /incentive/app/webroot/img/.jpg
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AppController), Object(CakeRequest))
+#2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

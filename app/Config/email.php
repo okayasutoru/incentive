@@ -38,7 +38,14 @@
  *
  */
 class EmailConfig {
-
+	
+    public $gmail = array(
+        'host' => 'ssl://smtp.gmail.com',
+        'port' => 465,
+        'username' => 'okayasu.toru@gmail.com', // ユーザ名
+        'password' => 'oka4560g',           // パスワード
+        'transport' => 'Smtp'
+    );
 	public $default = array(
 		'transport' => 'Mail',
 		'from' => 'okayasu.toru@gmail.com',
