@@ -1,6 +1,5 @@
 <?php
-
-class MtrSex extends AppModel{
-
+class MtrSex extends AppModel {
 	public $displayField = 'name';
 }
+

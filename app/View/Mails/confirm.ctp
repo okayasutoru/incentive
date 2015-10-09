@@ -29,22 +29,21 @@
 			<?php echo $this -> Form -> input('mtr_sex_id', array('type' => 'hidden')); ?>
 		</td>
 	</tr>
-<!--
 	<tr>
 		<th>年齢</th>
 		<td>
-			<?php //echo $ageList[$this -> data['Contact']['mtr_age_id']]; ?>
-			<?php //echo $this -> Form -> input('mtr_age_id', array('type' => 'hidden')); ?>
+			<?php echo $ageList[$this -> data['Contact']['mtr_age_id']]; ?>
+			<?php echo $this -> Form -> input('mtr_age_id', array('type' => 'hidden')); ?>
 		</td>
 	</tr>
 	<tr>
 		<th>お問い合わせ表題</th>
 		<td>
-			<?php //echo h($this -> data['Contact']['title']); ?>
-			<?php //echo $this -> Form -> input('title', array('type' => 'hidden')); ?>
+			<?php echo h($this -> data['Contact']['title']); ?>
+			<?php echo $this -> Form -> input('title', array('type' => 'hidden')); ?>
 		</td>
 	</tr>
--->
+
 	<tr>
 		<th>お問い合わせ内容</th>
 		<td>
@@ -52,27 +51,33 @@
 			<?php echo $this -> Form -> input('content', array('type' => 'hidden')); ?>
 		</td>
 	</tr>
-<!--
 	<tr>
 		<th>関心事</th>
 		<td>
 			<?php 
-			//	if(!empty($this -> data['MtrFavolite']['MtrFavolite'])):
-			//		foreach($this->data['MtrFavolite']['MtrFavolite'] as $key => $favolite):
+				if(!empty($this -> data['MtrFavolite']['MtrFavolite'])):
+					foreach($this->data['MtrFavolite']['MtrFavolite'] as $key => $favolite):
 
-			//		echo $this->Form->input('MtrFavolite.MtrFavolite.'.$key, array('type'=>'hidden'));
-			//	echo $favoliteList[$favolite].'<br />';
+					echo $this->Form->input('MtrFavolite.MtrFavolite.'.$key, array('type'=>'hidden'));
+				echo $favoliteList[$favolite].'<br />';
 
-			//	endforeach;
-		//endif;
+				endforeach;
+		endif;
 			?>
 		</td>
 	</tr>
--->
+
 </table>
 		
 <?php echo $this -> Form -> input('confirmed', array('type' => 'hidden', 'value' => 'true')); ?>
 
 <?php echo $this -> Form -> end('送信'); ?>
+
+
+
+
+
+
+
 
 

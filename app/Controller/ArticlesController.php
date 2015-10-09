@@ -4,4 +4,5 @@ class ArticlesController extends AppController {
 	public function index() {
 
 	}
+	public function hoge(){}
 }

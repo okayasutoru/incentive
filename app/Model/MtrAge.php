@@ -1,7 +1,5 @@
 <?php
-
-class MtrAge extends AppModel{
-
+class MtrAge extends AppModel {
 	public $displayField = 'name';
-	
 }
+

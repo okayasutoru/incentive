@@ -74,7 +74,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => 'okayasu',
-		'database' => 'kiroku',
+		'database' => 'incentive',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);

@@ -1,6 +1,5 @@
 <?php
-
-class MtrFavolite extends AppModel{
-
+class MtrFavolite extends AppModel {
 	public $displayField = 'name';
 }
+
