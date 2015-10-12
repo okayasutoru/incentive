@@ -29746,3 +29746,97 @@ Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
 Stack Trace:
 #0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-10-12 00:51:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 00:51:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:45 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:45 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:11:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-12 21:12:56 Error: [MissingActionException] Action ContactsController::con() could not be found.
+Exception Attributes: array (
+  'controller' => 'ContactsController',
+  'action' => 'con',
+)
+Request URL: /incentive/contacts/con
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ContactsController), Object(CakeRequest))
+#2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-10-12 21:13:49 Error: [MissingActionException] Action ArticlesController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'ArticlesController',
+  'action' => 'css',
+)
+Request URL: /incentive/articles/css/style.css
+Stack Trace:
+#0 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /var/www/cakephp/incentive/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ArticlesController), Object(CakeRequest))
+#2 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
