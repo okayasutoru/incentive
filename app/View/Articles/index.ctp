@@ -1,5 +1,4 @@
 <?php echo $this->Element('nav');?>
-<?php echo $this->Html->css('article.mobile'); ?> 
     <div id="page-wrapper">
       <div class="page">
         <font face="Impact"><h1 href="#"><img src="http://u.jimdo.com/www56/o/sd36d9f85c0f6b11e/userlayout/img/logoooo.jpg?t=1437644899" alt="">  Incentive</h1></font>
