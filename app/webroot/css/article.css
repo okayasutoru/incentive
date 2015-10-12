@@ -1,0 +1,43 @@
+a {
+	color: #ffffff;
+}
+
+.panel-body {
+	margin-top: 20px;
+}
+
+h3 {
+	margin-top: 0px;
+
+}
+
+/*
+
+@media screen and (min-width: 0px) and (max-device-width: 640px) {
+
+.box2 {
+	visibility: hidden;		
+
+}
+
+
+}
+@media screen and (min-width: 0px) and (max-device-width: 640px) {
+  .page {
+    margin-top: -50px;
+    margin-left: 0px;
+
+  }
+  .panel-body{
+    //margin-right: 0px;
+  }
+
+}
+
+@media screen and (min-width: 641px) and (max-device-width: 768px) {
+中身
+}
+@media screen and (min-width: 769px)  {
+中身
+}
+

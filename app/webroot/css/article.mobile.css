@@ -1,0 +1,78 @@
+@media screen and (min-width: 0px) and (max-device-width: 320px) {
+.panel-body {
+	padding-top: inherit;
+	margin-top: 10px;
+}
+.btn {
+	font-size: 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-size: 10px;
+    margin: 0 0 0 0;
+    line-height: 15px;
+    padding-top: 0px;
+}
+a {
+	color: #ffffff;
+}
+
+img {
+	width: 150px;
+}
+.box2 {
+	width: 100%;
+	float: top;
+}
+.box1 {
+	width: 100%;
+
+}
+.navbar-header {
+	width: 320px;
+}
+}
+
+@media screen and (min-width:321px) and (max-device-width:376px) {
+.panel-body {
+	padding-top: inherit;
+	margin-top: 10px;
+}
+.btn {
+	font-size: 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.navbar-header {
+	width: 375px;
+}
+p {
+	font-size: 10px;
+    margin: 0 0 0 0;
+    line-height: 15px;
+    padding-top: 0px;
+}
+
+img {
+	width: 150px;
+}
+.box2 {
+	width: 100%;
+	float: top;
+img {
+	width: 150px;
+}
+}
+.box1 {
+	width: 100%;
+
+}
+a {
+	color: #ffffff;
+}
+
+}
+
+

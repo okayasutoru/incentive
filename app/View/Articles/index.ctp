@@ -1,5 +1,5 @@
 <?php echo $this->Element('nav');?>
- 
+<?php echo $this->Html->css('article.mobile'); ?> 
     <div id="page-wrapper">
       <div class="page">
         <font face="Impact"><h1 href="#"><img src="http://u.jimdo.com/www56/o/sd36d9f85c0f6b11e/userlayout/img/logoooo.jpg?t=1437644899" alt="">  Incentive</h1></font>
@@ -10,7 +10,7 @@
 				<div class="table2">
 				<p>アツい学生にインタビュー。</p>
 				<p>彼らの今を記録！</p>     
-				<a data-mce-href="http://www.incentive123.com/articles/人物紹介/" href="http://www.incentive123.com/articles/人物紹介/" title="人物紹介">人物紹介ページへ</a>
+				<a data-mce-href="/incentive/articles/human/" href="/incentive/articles/human/" title="人物紹介">人物紹介ページへ</a>
 				</div>
 			</div>
 	  	   </div>

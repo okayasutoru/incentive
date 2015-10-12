@@ -1,7 +1,56 @@
+.circle {
+	width: 180px;
+	height: 180px;	
+	-webkit-border-radius: 90px;
+	-moz-border-radius: 90px;
+	-border-radius: 90px;
+	background: #333333;
+}
+
+.form-group {
+	margin-right: 20px;
+}
+
+.name1 {
+	width: 250px;
+	height: 200px;
+	margin-left: 20px;
+	float: left;
+	background-color: #;
+	position: center;
+	margin-top: 20px;
+	webkit-border-radius: 125px;
+	moz-border-radius: 125px;
+	border-radius: 125px;
+}
+
+.name2 {
+	width: 250px;
+	height: auto;
+	background-color: #;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.name3 {
+	width: 250px;
+	height: auto;
+	background-color: #;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.picture-name {
+	margin-top: 5px;
+	position: center;
+}
+
 .aaa {
   margin-top: 50px;
   margin-left: 50px;
-  margin-right: 150px;
+  margin-right: 50px;
 }
 
 .post {
@@ -18,4 +67,165 @@
  margin-left: auto;
  margin-right: auto;
 }
+.contact-form {
+    margin-top:20px;
+}
+/* 全てに適用するCSS */
+.hr {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #000000;
+    height: 1px;
+}
+
+.hr2 {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.box1 {
+	width: 45%;
+	float: left;
+}
+
+.box2 {
+	margin-left: 20px; 
+   	width: 40%;
+	float: left;
+}
+
+.button {
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.boxA {
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+
+.checkbox input[type=checkbox], .checkbox-inline input[type=checkbox], .radio input[type=radio], .radio-inline input[type=radio] {
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 0px;
+}
+
+.table2 {
+	padding: 12px;
+}
+.kikkake {
+	margin-top: 15px;
+}
+.done {
+	margin-top: 15px;
+	margin-left: 30px;
+}
+.radio {
+	text-align: left;
+}
+
+.submitbtn {
+	margin-bottom: 20px;
+
+}
+h5 {
+	font-size: 15px;
+	font-family: 'Gautami' ;
+}
+a {
+	color: #ffa000;
+}
+p
+{
+
+}
+h3  { font-size : 30px ;
+      font-family: 'Montserrat Alternates', sans-serif;
+}
+.aboutincentive-text {
+	margin-left: 15px;
+}
+h1{
+       font-size: 24px;
+       text-decoration: none;
+       font-weight: bold;
+       color: #000;
+       line-height: 2.5;
+       font-style: oblique;
+       margin:0;
+       font-family: 'Montserrat Alternates', sans-serif;
+    }
+
+.article-footer {
+	margin-top: 10px;
+}
+
+.news-body {
+     padding: 20px;
+     margin-left: 0px;
+     margin-right: 0px;
+     margin-top: -10px;
+}
+
+.panel-body {
+     padding: 20px;
+     margin-left: 20px;
+     margin-right: 20px;
+     margin-top: -10px;
+     background-color: rgb(246, 246, 246);
+}
+.cc-m-hgrid-column {
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    float: left;
+    padding: 0 2% 0 0;
+    min-height: 1px;
+}
+
+.table>thead>tr>th {
+   vertical-align: top;
+    border-bottom: 2px solid #ddd;
+}
+h2   {
+      background: #FFA500;
+      color: #fff;
+      text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+      margin-left: 20px;
+      margin-right: 20px;
+      font-size: 20px;
+      padding: 12px;
+    }
+h3 {
+    font: normal normal bold 18px/140% "Trebuchet MS", Verdana, sans-serif;
+    color: #FFB517;
+    margin-top: inherit;
+}
+
+.radio {
+	text-align: left;
+}
+
+/* ウィンドウ幅が0〜479pxの場合に適用するCSS */
+ 
+ @media(min-width:768px) {
+    #page-wrapper{
+               margin: 0 0 0 0px;
+        padding: 15px 30px;
+        min-height: 1200px;
+		
+    }
+	
+	
+    .navbar-side {
+        z-index: 1;
+        position: absolute;
+        width: 260px;
+    }
+
+   .navbar {
+ border-radius: 0px; 
+}   
 

@@ -73,7 +73,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'okayasu',
+		'password' => '',
 		'database' => 'incentive',
 		'prefix' => '',
 		'encoding' => 'utf8',

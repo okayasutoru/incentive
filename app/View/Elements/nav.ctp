@@ -29,7 +29,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
 </head>
-
+<?php echo $this->Html->css('style'); ?>
 <?php echo $this->Html->css('aboutincentive'); ?>
 
 <body>
@@ -91,5 +91,4 @@
             </div>
             <!-- /.navbar-collapse -->
         </nav>
-
 
