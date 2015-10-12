@@ -1,5 +1,6 @@
 <?php echo $this->Element('nav');?>
 <?php echo $this->Html->css('article.mobile'); ?>
+<?php echo $this->Html->css('article'); ?>
 	<div id="page-wrapper">
 	<div class="panel-body">
 		<h3>冨永晃輝さん</h3>	

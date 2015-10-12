@@ -63,7 +63,7 @@
                               <a href="/incentive/articles/">home</a>
                             </li>
                             <li>
-                                 <a data-mce-href="http://www.incentive123.com/articles/人物紹介/" href="http://www.incentive123.com/articles/人物紹介/">人物紹介</a>
+                                 <a data-mce-href="/incentive/articles/human/" href="/incentive/articles/human/">人物紹介</a>
                             </li>
                             <li>
                                 <a data-mce-href="http://www.incentive123.com/articles/旅/" href="http://www.incentive123.com/articles/旅/">旅</a>
