@@ -4,7 +4,16 @@ class ArticlesController extends AppController {
 	public function index() {
 
 	}
-	public function hoge(){}
+	public function matsuo(){}
+
+	public function tominaga(){}
+	public function kumamoto(){}
+	public function masashita(){}
+	public function katsume(){}
+
+
+
+
 
 	public function human(){}
 

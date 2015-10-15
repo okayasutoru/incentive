@@ -29,4 +29,10 @@ strong {
 }
 
 }
-
+@media screen and (min-width: 480px) and (max-device-width: 1000px) {
+.post {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}

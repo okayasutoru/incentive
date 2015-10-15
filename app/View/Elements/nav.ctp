@@ -56,9 +56,9 @@
                     <li class="active">
                         <a href="/incentive/incentives/"><i class="fa fa-fw fa-dashboard"></i> Home</a>
                     </li>
-                    <li>
-                        <a href="javascript:;" data-toggle="collapse" data-target="#article"><i class="fa fa-fw fa-arrows-v"></i> Articles<i class="fa fa-fw fa-caret-down"></i></a>
-                        <ul id="article" class="collapse">
+			
+                    <li>   <! <a href="javascript:;"<li data-toggle="collapse" data-target="#article"><a href="/incentive/articles/"><i class="fa fa-fw fa-arrows-v"></i> Articles<!<i class="fa fa-fw fa-caret-down"></i></a>
+                       <!-- <ul id="article" class="collapse">
                             <li>
                               <a href="/incentive/articles/">home</a>
                             </li>
@@ -77,7 +77,7 @@
                             </li>
                         </ul>
                     </li>
-
+			-->
                     <li>
                         <a href="/incentive/events/"><i class="fa fa-fw fa-table"></i> Events</a>
                     </li>

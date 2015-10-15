@@ -1,10 +1,17 @@
 .panel-body {
 	margin-top: 20px;
+	padding-top: 20px;
 }
 
 h3 {
 	margin-top: 0px;
 
+}
+a {
+	color: #fff;
+}
+img {
+	width: 100%;
 }
 
 /*

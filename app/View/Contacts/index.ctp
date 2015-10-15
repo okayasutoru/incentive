@@ -1,4 +1,5 @@
 	<?php echo $this->Element('nav');?>
+	<?php echo $this->Html->css('contact.mobile'); ?>
  
  	<div id="page-wrapper">
 	<h2>問い合わせフォーム</h2>
@@ -11,12 +12,12 @@
 						<input type="hidden" name="_method" value="POST" class="col-sm-8 contact-form"/>
 					</div>	
 					<div class="row">
-						<div class="col-xs-6 col-md-6 form-group">
+						<div class="col-xs-10 col-md-10 form-group">
 							<div class="input text required">
 								<input class="form-control" name="data[Contact][name]" maxlength="255" id="ContactName" required="required" id="name" name="name" placeholder="Name" type="text" required autofocus/>
 							</div>
 						</div>
-						<div class="col-xs-6 col-md-6 form-group">
+						<div class="col-xs-10 col-md-10 form-group">
 							<div class="input email required">
 								<input class="form-control" name="data[Contact][email]" maxlength="255" type="email" id="ContactEmail" id="email" name="email" placeholder="Email"required="required"/>
 							</div>

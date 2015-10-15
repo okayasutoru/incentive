@@ -20,7 +20,7 @@ a {
 }
 
 img {
-	width: 150px;
+	width: 200px;
 }
 .box2 {
 	width: 100%;
@@ -61,13 +61,13 @@ img {
 .box2 {
 	width: 100%;
 	float: top;
-img {
-	width: 150px;
-}
 }
 .box1 {
 	width: 100%;
 
+}
+img {
+	width: 250px;
 }
 a {
 	color: #ffffff;
@@ -76,3 +76,49 @@ a {
 }
 
 
+@media screen and (min-width:377px) and (max-device-width:414px) {
+.panel-body {
+	padding-top: inherit;
+	margin-top: 10px;
+}
+.btn {
+	font-size: 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.navbar-header {
+	width: 414px;
+}
+p {
+	font-size: 10px;
+    margin: 0 0 0 0;
+    line-height: 15px;
+    padding-top: 0px;
+}
+
+img {
+	width: 150px;
+}
+.box2 {
+	width: 100%;
+	float: top;
+}
+.box1 {
+	width: 100%;
+
+}
+img {
+	width: 250px;
+}
+a {
+	color: #ffffff;
+}
+}
+}
+@media screen and (min-width:415px) and (max-device-width:1000px) {
+.post {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}	
