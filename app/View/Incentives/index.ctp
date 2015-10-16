@@ -1,4 +1,4 @@
-<?php echo $this->Element('nav');?>
+<?php echo $this->Element('nav2');?>
  
    <div id="page-wrapper">
       <div class="page">

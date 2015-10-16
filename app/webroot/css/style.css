@@ -215,16 +215,10 @@ h3 {
     margin-left: 0px;
     margin-right: 0px;
 }
-img {
-	width: 90%;
-}
 
 
 }
  @media(min-width:801px) {
-img {
-	width: 90%;
-}
     #page-wrapper{
                margin: 0 0 0 0px;
         padding: 15px 30px;
@@ -242,4 +236,5 @@ img {
    .navbar {
  border-radius: 0px; 
 }   
+}
 
