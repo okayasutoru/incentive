@@ -56492,3 +56492,48 @@ Request URL: /incentive/css/aboutincentive.css
 Stack Trace:
 #0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-10-16 13:17:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 13:17:50 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 13:17:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/css/aboutincentive.css
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 13:17:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-16 13:17:54 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /var/www/cakephp/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
