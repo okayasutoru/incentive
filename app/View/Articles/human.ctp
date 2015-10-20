@@ -92,6 +92,7 @@
 		</div>
 		<div class="box2">
 		<img src="/incentive/app/webroot/img/katsume.jpg" >
+		<br><br>
 		</div>
 		</div>
 

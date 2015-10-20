@@ -49,6 +49,6 @@
 		<p>取材場所 @ Cafe Barbera URL➡︎<a href="http://www.cafebarberafranchise.com">http://www.cafebarberafranchise.com</a></p>
 		        <div class="center"><img src="/incentive/app/webroot/img/tominaga3.jpg" >
 				</div>
-
+<br><br>
 		
 

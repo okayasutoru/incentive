@@ -44,3 +44,4 @@ SVEPに興味のある人は以下を参照してください！</p>
 			<p><a href="http://www.isc.kyushu-u.ac.jp/california/svep/application2015">http://www.isc.kyushu-u.ac.jp/california/svep/application2015</a></p>
 			<p>取材場所 Cafe Xando URL➡︎<a href="http://xando.commuru.com">http://xando.commuru.com</a></p>
 
+		<br><br>

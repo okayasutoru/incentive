@@ -51,3 +51,4 @@
  			<p>たびつくりFBページ URL➡︎<a href="https://www.facebook.com/tabitsukuri">https://www.facebook.com/tabitsukuri</a></p>
 			<p>僕の生き方と旅の記録（熊本のブログ）URL➡︎<a href="http://fukuokajapantryks.pw">http://fukuokajapantryks.pw</a></p>
 			<p>青少年アンビシャスの翼 URL➡︎<a href="http://ambitious.pref.fukuoka.jp/work/wing/index.html">http://ambitious.pref.fukuoka.jp/work/wing/index.html</a></p>
+<br><br>

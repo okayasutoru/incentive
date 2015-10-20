@@ -47,13 +47,8 @@
 		<br>
 	<div class="article-footer">
 		<div class="panel-body">
-		<p>Incentiveでは記事、お題をみなさんより募集しています。おもしろい人や団体を知っている方、多くの人に共有したいことがある方は<a data-mce-href="http://www.incentive123.com/contact/" href="http://www.incentive123.com/contact/" title="Contact">こちら</a>よりお気軽にメッセージお願いします！</p>
+		<p>Incentiveでは記事、お題をみなさんより募集しています。おもしろい人や団体を知っている方、多くの人に共有したいことがある方は<a data-mce-href="/incentive/contacts/" href="/incentive/contacts/" title="Contact">こちら</a>よりお気軽にメッセージお願いします！</p>
 		</div>
 		</div>
-      <div class="footer">
-        <p>&copy; Incentive, Inc.</p>
-      </div>
-    </div>
-
-
+<br><br>
 

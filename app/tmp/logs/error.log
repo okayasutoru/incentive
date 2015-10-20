@@ -62940,3 +62940,21 @@ Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
 Stack Trace:
 #0 /Applications/MAMP/htdocs/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2015-10-20 09:06:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/MAMP/htdocs/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-10-20 09:06:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /incentive/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/MAMP/htdocs/incentive/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -74,3 +74,5 @@
 			<p>URL➡︎<a href="http://qrec.kyushu-u.ac.jp/entreseminar/">http://qrec.kyushu-u.ac.jp/entreseminar/</a></p>
 			<p>・日韓海峡圏カレッジ（韓国留学）URL➡︎<a href="https://www.kyushu-u.ac.jp/pressrelease/2013/2013_08_22.pdf">https://www.kyushu-u.ac.jp/pressrelease/2013/2013_08_22.pdf</a></p>	
 	
+
+		<br><br>
