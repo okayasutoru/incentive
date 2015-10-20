@@ -3,7 +3,6 @@
 		
 		  <body>
 		    <div id="page-wrapper">
-		    <div class="post">
 		    <div class="aaa">
 			<h3>松尾真里さん</h3>
 		      <strong>今、九州で熱い学生の素顔に迫る！</strong>

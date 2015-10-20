@@ -3,7 +3,6 @@
 		
 		  <body>
 		    <div id="page-wrapper">
-		    <div class="post">
 		    <div class="aaa">
 			<h3>正下遥奈さん</h3>
 			<strong>今、熱い学生に迫る！</strong>
