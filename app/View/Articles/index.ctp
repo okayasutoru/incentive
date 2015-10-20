@@ -19,7 +19,7 @@
 				<div class="table2">
 				<p>旅先で起こったあんなことやこんなこ</p>
 				<p>ワクワクやドキドキを共有していただきました！</p>     
-				<a data-mce-href="http://www.incentive123.com/articles/旅/" href="http://www.incentive123.com/articles/旅/" title="旅">旅ページへ</a>
+				<a data-mce-href="/incentive/articles/trip/" href="/incentive/articles/trip/" title="旅">旅ページへ</a>
 				</div>
 			</div>
 	  	   </div>
@@ -30,7 +30,7 @@
             		<div class="table-responsive">
 				<div class="table2">
 				<p>リアルな体験をシェア！</p>
-				<a data-mce-href="http://www.incentive123.com/articles/留学/" href="http://www.incentive123.com/articles/留学/" title="留学">留学ページへ</a>
+				<a data-mce-href="/incentive/articles/exchange/" href="/incentive/articles/exchange/" title="留学">留学ページへ</a>
 				</div>
 			</div>
 	  	   </div>
@@ -39,7 +39,7 @@
             		<div class="table-responsive">
 				<div class="table2">
 				<p>Incentiveスタッフがふと考えたことや日常の些細なことをつれづれなるままに綴るコーナー</p>     
-				<a href="http://www.incentive123.com/articles/スタッフの与太話/" title="与太話" data-mce-href="http://www.incentive123.com/articles/スタッフの与太話/">与太話ページへ</a>
+				<a data-mce-href="/incentive/articles/story/" href="/incentive/articles/story/" title="スタッフの与太話">スタッフの与太話ページへ</a>
 				</div>
 			</div>
 	  	   </div><br>

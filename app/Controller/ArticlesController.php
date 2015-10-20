@@ -12,7 +12,9 @@ class ArticlesController extends AppController {
 	public function hashimoto(){}
 	public function ono(){}
 
-
+	public function vol1(){}
+	public function vol2(){}
+	public function oshima(){}
 
 	public function human(){}
 
