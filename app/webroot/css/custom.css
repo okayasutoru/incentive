@@ -25,7 +25,6 @@ body {
     padding: 15px 15px;
     min-height: 600px;
     background:#F3F3F3;
-    margin-top: -50px;   
 
 }
 #page-inner {
@@ -41,6 +40,10 @@ body {
 }
 .no-boder {
     border:1px solid #f3f3f3;
+}
+strong {
+	margin: 0 0 10px;
+	font-size: initial;
 }
 h2 {
     color: #fff;

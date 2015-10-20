@@ -2,7 +2,7 @@
     <title>Incentive</title>
 <?php echo $this->Html->css('style'); ?>
 <?php echo $this->Html->css('aboutincentive'); ?>
-
+<?php echo $this->Html->css('mobile'); ?>
 <body>
 
     <div id="wrapper">
@@ -51,10 +51,11 @@
                         </ul>
                     </li>
                         -->
-                    <li>
+<!--                    <li>
                         <a href="/incentive/events/"><i class="fa fa-fw fa-table"></i> Events</a>
                     </li>
-                    <li>
+-->    
+                <li>
                         <a href="/incentive/contacts/"><i class="fa fa-fw fa-edit"></i> Contacts</a>
                     </li>
                     <li>

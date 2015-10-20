@@ -1,7 +1,10 @@
-@media screen and (min-width: 0px) and (max-device-width: 320px) {
+@media screen and (min-width:100px) and (max-width:320px) {
 .panel-body {
 	padding-top: inherit;
-	margin-top: 10px;
+}
+#page-wrapper {
+
+	margin-top: -50px;
 }
 .btn {
 	font-size: 10px;
@@ -14,16 +17,6 @@ p {
     margin: 0 0 0 0;
     line-height: 15px;
     padding-top: 0px;
-}
-strong {
-	padding-bottom: 5px;
-}
-a {
-	color: #ffffff;
-}
-
-img {
-	width: 200px;
 }
 .box2 {
 	width: 100%;
@@ -38,10 +31,13 @@ img {
 }
 }
 
-@media screen and (min-width:321px) and (max-device-width:376px) {
+@media screen and (min-width:321px) and (max-width:376px) {
 .panel-body {
 	padding-top: inherit;
-	margin-top: 10px;
+}
+#page-wrapper {
+
+	margin-top: -50px;
 }
 .btn {
 	font-size: 1px;
@@ -58,9 +54,6 @@ p {
     padding-top: 0px;
 }
 
-img {
-	width: 150px;
-}
 .box2 {
 	width: 100%;
 	float: top;
@@ -69,20 +62,17 @@ img {
 	width: 100%;
 
 }
-img {
-	width: 250px;
-}
-a {
-	color: #ffffff;
-}
 
 }
 
 
-@media screen and (min-width:377px) and (max-device-width:414px) {
+@media screen and (min-width:377px) and (max-width:414px) {
+#page-wrapper {
+
+	margin-top: -50px;
+}
 .panel-body {
 	padding-top: inherit;
-	margin-top: 10px;
 }
 .btn {
 	font-size: 1px;
@@ -99,9 +89,6 @@ p {
     padding-top: 0px;
 }
 
-img {
-	width: 150px;
-}
 .box2 {
 	width: 100%;
 	float: top;
@@ -110,18 +97,6 @@ img {
 	width: 100%;
 
 }
-img {
-	width: 250px;
 }
-a {
-	color: #ffffff;
+@media screen and (min-width:415px) and (max-width:1000px) {
 }
-}
-}
-@media screen and (min-width:415px) and (max-device-width:1000px) {
-.post {
-    margin-top: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-}	

@@ -13,6 +13,9 @@ a {
 img {
 	width: 100%;
 }
+strong {
+	padding-bottom: 5px;
+}
 
 /*
 

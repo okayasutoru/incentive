@@ -5,7 +5,7 @@
 		    <div id="page-wrapper">
 		    <div class="post">
 		    <div class="aaa">
-			<h3>熊本誠さん</h3>
+			<h3>正下遥奈さん</h3>
 			<strong>今、熱い学生に迫る！</strong>
 			<strong>今回は、大学に入り大きな変化を体験したクールビューティー、九州大学四年生、正下遥奈さんにお話を伺いました！</strong>
 			<div id="center"><img src="/incentive/app/webroot/img/masashita.jpg" >

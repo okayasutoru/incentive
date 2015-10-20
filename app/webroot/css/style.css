@@ -51,6 +51,7 @@
   margin-top: 50px;
   margin-left: 50px;
   margin-right: 50px;
+  padding-top: 5px;
 }
 
 .post {
@@ -200,7 +201,6 @@ h2   {
 h3 {
     font: normal normal bold 18px/140% "Trebuchet MS", Verdana, sans-serif;
     color: #FFB517;
-    margin-top: inherit;
 }
 
 .radio {
@@ -208,18 +208,21 @@ h3 {
 }
 
 /* ウィンドウ幅が0〜479pxの場合に適用するCSS */
- 
-@media(min-width:415px) and (max-width:800px) {
+
+	       	
+@media(min-width:415px) and (max-width:768px) {
 .post {
     margin-top: 10px;
     margin-left: 0px;
     margin-right: 0px;
 }
-
+#page-wrapper {
+	margin-top: -50px;
+}
 
 }
- @media(min-width:801px) {
-    #page-wrapper{
+ @media(min-width:768px) {
+#page-wrapper{
                margin: 0 0 0 0px;
         padding: 15px 30px;
         min-height: 1200px;
